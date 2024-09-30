@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/LABO4.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>2048</length>
+      <used>638</used>
+      <free>1410</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>48765</length>
+      <used>996</used>
+      <free>47769</free>
+    </memory>
+  </executable>
+</project>
